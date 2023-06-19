@@ -1,0 +1,27 @@
+.gallery {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.gallery__image {
+  width: 24%;
+  height: 400px;
+  object-fit: cover;
+  object-position: center;
+  padding: 5px;
+  margin: 5px;
+  box-sizing: border-box;
+  border: 2px solid rgb(232, 174, 124);
+}
+
+.image2 {
+  object-position: top;
+}
+
+.image5 {
+  object-position: 70%;
+}
+
+.image8{
+  object-position: right;
+}
