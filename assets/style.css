@@ -12,6 +12,7 @@
   margin: 5px;
   box-sizing: border-box;
   border: 2px solid rgb(232, 174, 124);
+  border-radius: 5px;
 }
 
 .image2 {
